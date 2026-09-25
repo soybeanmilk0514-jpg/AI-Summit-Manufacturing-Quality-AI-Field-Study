@@ -23,7 +23,7 @@
 | Official event dates | 2026.08.19–21 |
 | Venue | COEX Grand Ballroom & Exhibition Hall B |
 | Visit type | EXPO visitor / booth experience |
-| Career lens | Semiconductor manufacturing technology / quality management |
+| Engineering lens | Manufacturing technology / quality systems |
 | Main companies | Delvitech / KAIS, GitLab, Sionic AI |
 | Core question | How can AI improve inspection, engineering traceability, and quality knowledge workflows? |
 
@@ -247,7 +247,7 @@ inspection rule / analysis tool / knowledge base update
 | [GitLab](./guide/03_gitlab_traceability.md) | 분석 코드와 engineering traceability |
 | [Sionic AI](./guide/04_sionic_quality_knowledge.md) | RAG 기반 품질 지식 활용 |
 | [Quality Loop](./guide/05_ai_quality_loop.md) | 세 기술을 하나의 workflow로 연결 |
-| [Career Takeaways](./guide/06_career_takeaways.md) | 양산·품질 직무 관점의 학습 |
+| [Engineering Takeaways](./guide/06_career_takeaways.md) | 양산·품질 직무 관점의 학습 |
 | [Evidence Scope](./guide/07_evidence_scope.md) | 현장 경험 / 공식 자료 / 적용 아이디어 구분 |
 | [References](./references/README.md) | 공식 행사·기업 자료 |
 | [Field Photos](./figures/README.md) | 현장 사진 설명 |
