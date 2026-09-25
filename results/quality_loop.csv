@@ -1,0 +1,6 @@
+step,function,example_technology,engineering_output
+1,detect_anomaly,Delvitech_HORUS,inspection_result
+2,trace_and_analyze,GitLab,versioned_analysis_and_RCA
+3,retrieve_knowledge,Sionic_AI_STORM,relevant_SOP_OCAP_history
+4,corrective_action,engineer_human_in_loop,approved_response
+5,feedback,quality_management_system,"updated_rule_script_standard_or_process_condition"
