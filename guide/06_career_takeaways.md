@@ -1,4 +1,4 @@
-# 06. Career Takeaways — Manufacturing & Quality
+# 06. Engineering Takeaways — Manufacturing & Quality
 
 ## 1. False Call Matters
 
@@ -47,7 +47,7 @@ RAG / enterprise agent를 보면서 **knowledge retrieval speed itself can be a 
 - exception handling
 - rollback / revision history
 
-## 5. Connection to My Career Direction
+## 5. Engineering Perspective
 
 이 경험을 통해 양산 / 품질 엔지니어가 AI developer가 아니더라도:
 
