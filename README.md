@@ -294,3 +294,7 @@ This repository clearly separates:
 3. **My application ideas** — how these technologies could support semiconductor manufacturing and quality workflows
 
 No employment, implementation, or production deployment at these companies is claimed.
+
+---
+
+[← Back to Subin Joo's GitHub Portfolio](https://github.com/soybeanmilk0514-jpg)
